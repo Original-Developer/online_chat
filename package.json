@@ -8,5 +8,8 @@
     "Electron"
   ],
   "author": "Oliver and Rune",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "env": "^0.0.2"
+  }
 }
