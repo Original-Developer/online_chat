@@ -1,0 +1,12 @@
+{
+  "name": "online_chat",
+  "version": "1.0.0",
+  "description": "An online chat written in JS using Electron and other NPM libs",
+  "main": "index.js",
+  "keywords": [
+    "JS",
+    "Electron"
+  ],
+  "author": "Oliver and Rune",
+  "license": "MIT"
+}
